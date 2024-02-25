@@ -1,3 +1,4 @@
+![Simulator Screenshot - iPhone 15 Plus - 2024-02-25 at 16 11 56](https://github.com/izaanshahid/Weather-app/assets/62205475/009049cc-5f34-4de1-b738-74768f52225a)
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
